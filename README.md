@@ -18,6 +18,10 @@ Suicide and Depression Detection
 6. Yearwise comparison bewteen countries - Line chart
 7. Two slicers - Country and Gender
 
+LinkedIn :- https://www.linkedin.com/in/anamika-a-nair-a201881a0/
+## Dashboard
+![Excel Project Screenshot](https://github.com/user-attachments/assets/14bdf11c-8c2d-47c1-b26c-ab66f1af0f20)
+
 ## Key Insights :-
 1. Global Gender Disparity:
 Men are more prone to suicides globally, making gender-specific interventions crucial.
@@ -30,8 +34,4 @@ Overall declining rates in top countries (e.g., Russia) indicate that interventi
 Stable rates suggest an opportunity for early intervention before rates escalate significantly.
 
 This topic might be sensitive, but I chose to create this dashboard to bring clarity to the fact that depression, stress, and trauma are not gender-biased. Only those who experience these struggles truly understand how challenging life can become. 
-
-LinkedIn :- https://www.linkedin.com/in/anamika-a-nair-a201881a0/
-## Dashboard
-![Excel Project Screenshot](https://github.com/user-attachments/assets/14bdf11c-8c2d-47c1-b26c-ab66f1af0f20)
 
