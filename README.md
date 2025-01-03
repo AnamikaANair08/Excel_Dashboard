@@ -32,3 +32,6 @@ Stable rates suggest an opportunity for early intervention before rates escalate
 This topic might be sensitive, but I chose to create this dashboard to bring clarity to the fact that depression, stress, and trauma are not gender-biased. Only those who experience these struggles truly understand how challenging life can become. 
 
 LinkedIn :- https://www.linkedin.com/in/anamika-a-nair-a201881a0/
+## Dashboard
+![Excel Project Screenshot](https://github.com/user-attachments/assets/14bdf11c-8c2d-47c1-b26c-ab66f1af0f20)
+
